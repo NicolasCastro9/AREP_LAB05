@@ -61,7 +61,14 @@ SparkWebServer: servidor web simple que realiza diversas operaciones matemática
 ![image](https://github.com/NicolasCastro9/AREP_LAB05/assets/98556822/350b7d46-8097-4f0e-80f4-81b6f553d9bd)
 ![image](https://github.com/NicolasCastro9/AREP_LAB05/assets/98556822/a8755876-4e52-4373-a943-bb3d49f98807)
 
-
+11. Por Docker
+```
+docker run -d -p 34000:6000 --name virtualizacion tankiandown/arep_lab05 
+```
+12 Ingresamos la siguiente URL
+```
+http://localhost:34000/
+```
 
 
 
