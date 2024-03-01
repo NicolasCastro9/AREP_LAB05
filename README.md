@@ -83,9 +83,13 @@ Contenedorización: Se utiliza Docker para contener y desplegar la aplicación d
 # Construido con
 
 Java: plataforma informática de lenguaje de programación
+
 SparkJava: microframework web para Java que facilita la creación de aplicaciones web simples y rápidas
+
 MongoDB:  base de datos NoSQL orientada a documentos
+
 Maven: framework de gestión de proyectos de software
+
 Docker:  sistema operativo para contenedores
 
 
