@@ -46,8 +46,10 @@ SparkWebServer: servidor web simple que realiza diversas operaciones matemática
 8. funcion coseno
     
    ![image](https://github.com/NicolasCastro9/AREP_LAB05/assets/98556822/16a1ad48-084d-4790-978b-139b75a4ddf8)
+   ![image](https://github.com/NicolasCastro9/AREP_LAB05/assets/98556822/9d114ba1-650e-4ea5-8a22-12d85e68e1a4)
+
    
-9. Palindromo
+10. Palindromo
 
  ![image](https://github.com/NicolasCastro9/AREP_LAB05/assets/98556822/c2a153af-7a70-48bd-a08e-6ee711789da5)
  ![image](https://github.com/NicolasCastro9/AREP_LAB05/assets/98556822/a1153b85-b798-4042-a203-e3d119fe6b1b)
