@@ -70,9 +70,31 @@ docker run -d -p 34000:6000 --name virtualizacion tankiandown/arep_lab05
 http://localhost:34000/
 ```
 
+# ARQUITECTURA Y DISEÑO
+
+Patrones de Diseño Utilizados
+Modelo-Vista-Controlador (MVC): Se utiliza el patrón MVC para separar la lógica de negocio, la presentación y la gestión de solicitudes. Las rutas en el servidor web manejan las solicitudes (Controlador), las operaciones de negocio se realizan en clases separadas (Modelo), y la respuesta se genera utilizando plantillas o respuestas directas (Vista).
+
+Decisiones Arquitectónicas
+Microservicios: Se optó por una arquitectura basada en microservicios para facilitar la escalabilidad y el mantenimiento del sistema. Cada servicio (por ejemplo, el servidor web y la base de datos) se despliega de forma independiente.
+Contenedorización: Se utiliza Docker para contener y desplegar la aplicación de manera consistente en diferentes entornos.
 
 
+# Construido con
 
-docker pull tankiandown/arep_lab05:latest
-docker pull tankiandown/arep_lab05:latest
-docker run -d -p 34000:6000 --name virtualizacion tankiandown/arep_lab05 
+Java: plataforma informática de lenguaje de programación
+SparkJava: microframework web para Java que facilita la creación de aplicaciones web simples y rápidas
+MongoDB:  base de datos NoSQL orientada a documentos
+Maven: framework de gestión de proyectos de software
+Docker:  sistema operativo para contenedores
+
+
+# Autor
+
+Nicolas Castro Jaramillo
+
+
+# Licencia
+
+Este proyecto está bajo la licencia MIT.
+
