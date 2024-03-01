@@ -1,6 +1,6 @@
 # Modularización con virtualización e Introducción a Docker
 Este laboratorio consiste en crear una aplicación web pequeña usando el micro-framework de Spark java y construir un container para docker para la aplicación y los desplegaremos y configuraremos en nuestra máquina local. Luego, crearemos un repositorio en DockerHub y subiremos la imagen al repositorio.
-# Classes
+# Clases
 SparkWebServer: servidor web simple que realiza diversas operaciones matemáticas y verifica si una cadena es un palíndromo, proporcionando los resultados correspondientes a través de solicitudes HTTP GET.
 # Pre Requisitos
 * Java: Es un lenguaje de programación de propósito general orientado a objetos, portátil y muy versátil.
