@@ -11,6 +11,12 @@ SparkWebServer: servidor web simple que realiza diversas operaciones matemática
   
 * Docker: Es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software.
 
+# Instrucciones de uso
+
+1. Clona el repositorio a tu máquina local:
+   ```
+   git clone https://github.com/NicolasCastro9/AREP_LAB05.git
+   ```
 
 docker pull tankiandown/arep_lab05:latest
 docker pull tankiandown/arep_lab05:latest
